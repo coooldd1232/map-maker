@@ -11,3 +11,6 @@ middle mouse button again to set camera back to its normal spot
 
 and finally space to create a wall
 space on a wall to copy and paste it
+
+you can move and stretch the walls
+open the example map for an example in maps/example map
